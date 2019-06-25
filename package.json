@@ -1,0 +1,19 @@
+{
+    "name": "wpod",
+    "description": "wpod",
+    "version": "0.1.0",
+    "author": "tailuge",
+    "main": "",
+    "license": "GPL-3.0",
+    "scripts": {
+        "server": "webpack-dev-server",
+        "deps": "npx yarn-check --skip-unused"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "webpack": "^4.35.0",
+        "webpack-cli": "^3.3.5",
+        "webpack-dev-server": "^3.7.2"
+    }
+}
