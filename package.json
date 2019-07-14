@@ -12,8 +12,7 @@
         "test": "jest --verbose",
         "coverage": "jest --coverage --coverageReporters text"
     },
-    "dependencies": {
-    },
+    "dependencies": {},
     "devDependencies": {
         "@types/chai": "^4.1.7",
         "@types/jest": "^24.0.15",
@@ -22,9 +21,9 @@
         "mocha": "^6.1.4",
         "ts-jest": "^24.0.2",
         "ts-loader": "^6.0.4",
-        "typescript": "^3.5.2",
-        "webpack": "^4.35.0",
-        "webpack-cli": "^3.3.5",
+        "typescript": "^3.5.3",
+        "webpack": "^4.35.3",
+        "webpack-cli": "^3.3.6",
         "webpack-dev-server": "^3.7.2"
     }
 }
